@@ -1,1 +1,1 @@
-# SimpleCaptchaSolvingBot
+Simple UiPath bot to solve the captcha using Google Vision API.
